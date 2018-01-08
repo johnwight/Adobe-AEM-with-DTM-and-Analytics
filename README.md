@@ -34,6 +34,7 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
 
 1. On the **Create Configuration** box, specify a **Title** and click the **Create** button.
 
+    ![create box](https://user-images.githubusercontent.com/29133525/34695269-6f46eda6-f487-11e7-923b-44d36795d641.png)
 
 
 
