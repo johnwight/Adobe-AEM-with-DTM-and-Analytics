@@ -61,7 +61,10 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
 
              You should receive a message indicating that the connection is successful.
               
-              
+             ![connection successful](https://user-images.githubusercontent.com/29133525/34696324-97124dcc-f48b-11e7-8119-81965820bd52.png)
+
+
+
 
 
 
