@@ -49,7 +49,8 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
     
         1. Return to the DTM Dashboard and click the Profile icon and then click **DTM Account**.
         
-        
+            ![click dtm account](https://user-images.githubusercontent.com/29133525/34695898-d2b30fee-f489-11e7-9c9a-27086af832b0.png)
+
 
 
 
