@@ -39,14 +39,15 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
 
 1. On the Dynamic Tag Management Settings box that appears in DTM Settings, provide the following information:
 
-* API Token
-* Company
-* Property
+    * API Token
+    * Company
+    * Property
 
+    ![dynamic tag management settings box](https://user-images.githubusercontent.com/29133525/34695571-9f68c8a0-f488-11e7-9cf0-e3541780f1df.png)
 
-
-
-    1. The API token. To retrieve the API token, return to the DTM Dashboard and click the Embed tag for the property you created. 
+    1. To retrieve the API token:
+    
+        1. Return to the DTM Dashboard and click the Embed tag for the property you created. 
 
 
 
