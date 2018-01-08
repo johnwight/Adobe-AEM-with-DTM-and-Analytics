@@ -20,3 +20,16 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
     
 1. On the company dashboard, use the filter field to search for the property you created in the previous step.
 
+    ![property filter](https://user-images.githubusercontent.com/29133525/34694766-865855e0-f485-11e7-88c2-045f7080be67.png)
+
+
+
+
+
+
+
+
+
+
+
+
