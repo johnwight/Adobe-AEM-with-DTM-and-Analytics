@@ -51,7 +51,7 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
         
             ![click dtm account](https://user-images.githubusercontent.com/29133525/34695898-d2b30fee-f489-11e7-9c9a-27086af832b0.png)
 
-
+        1. On the DTM **Edit Account** screen, scroll to the bottom to find and copy the **API Token**.
 
 
 
