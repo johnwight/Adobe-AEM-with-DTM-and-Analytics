@@ -22,7 +22,12 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
 
     ![property filter](https://user-images.githubusercontent.com/29133525/34694876-e424f3a4-f485-11e7-979b-1cba11c52ef8.png)
 
+1. Select the property from the search results.
 
+1. In AEM, click **Tools** > **Operations** > **Cloud** > **Cloud Services**.
+
+
+1. Under **Dynamic Tag Management**, click **Configure Now**.
 
 
 
