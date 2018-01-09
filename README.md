@@ -68,5 +68,12 @@ To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and
  
     1. To specify the **Property**, select it fromt the drop-down in the field. If you have many properties, you may need to scroll to find it.
 
-1. Near the bottom of the **Dynamic Tag Settings** box, turn off the **Include Production Code on Author** option.
+1. Near the bottom of the **Dynamic Tag Settings** box, deselect the **Include Production Code on Author** option.
+
+1. Click the **Staging Settings** tab and deselect the **Use Self Hosting** option.
+
+1. Click the **Production Settings** tab and deselect the **Use Self Hosting** option.
+
+1. Click **OK**.
+
 
