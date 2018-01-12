@@ -89,7 +89,5 @@ To configure AEM for DTM and Analytics:
 
 1. Click the **Sites** button in AEM.
 
-    ![sites in aem](https://user-images.githubusercontent.com/29133525/34886485-5fafb6a6-f780-11e7-9505-0e5b9c9ad530.png)
-
-1. Click on the site you are configuring for DTM. In these instructions, we will configure the **Geometrixx Outdoors** site.
+1. Click the **View Properties** pop up option on the on the site you are configuring for DTM. In these instructions, we will configure the **Geometrixx Outdoors** site.
 
