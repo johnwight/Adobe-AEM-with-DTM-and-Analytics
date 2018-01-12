@@ -93,3 +93,4 @@ To configure AEM for DTM and Analytics:
 
     ![sites in aem](https://user-images.githubusercontent.com/29133525/34886880-c7df7030-f781-11e7-9496-bdcae7b187d6.png)
 
+1. Click **Cloud Services** and then click **Edit**.
