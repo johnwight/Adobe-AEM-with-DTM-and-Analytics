@@ -206,3 +206,7 @@ To configure AEM + DTM with Analytics:
      1. Click the **Create Tool** button.
      
         ![create tool form](https://user-images.githubusercontent.com/29133525/34898821-4fcf2154-f7b2-11e7-8a24-952d49638013.png)
+
+1. Specify the 
+
+
