@@ -207,7 +207,7 @@ To configure AEM + DTM with Analytics:
      
         ![create tool form](https://user-images.githubusercontent.com/29133525/34898821-4fcf2154-f7b2-11e7-8a24-952d49638013.png)
 
-1. Specify the **Staging** and **Production Report Suite**.
+1. Specify the **Staging** and **Production Report Suites**.
 
     ![report suite specification](https://user-images.githubusercontent.com/29133525/34899149-5a41d0d0-f7b4-11e7-85de-a987d9e43b31.png)
 
