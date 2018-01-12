@@ -217,3 +217,5 @@ To configure AEM + DTM with Analytics:
 
     ![log details](https://user-images.githubusercontent.com/29133525/34899705-bb8dd4a8-f7b7-11e7-8d4e-baafa6add06d.png)
 
+1. Perform various tasks and web behaviors on your site to generate Analytics data.
+
