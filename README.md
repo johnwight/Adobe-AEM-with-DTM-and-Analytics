@@ -123,4 +123,6 @@ To add an alert:
 
 1. Select your DTM configuration from the filter results and click the **Rules** tab. Click **Page Load Rules** on the left pane and then click the **Create New Rule** button.
 
+    ![create new rule](https://user-images.githubusercontent.com/29133525/34888744-a8bed838-f788-11e7-9613-1aa4bab013ba.png)
+
 
