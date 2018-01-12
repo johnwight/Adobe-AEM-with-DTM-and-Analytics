@@ -103,3 +103,4 @@ To configure AEM for DTM and Analytics:
 
 1. Verify that the new configuration reference for **Dynamic Tag Management** appears.
 
+    ![new config reference](https://user-images.githubusercontent.com/29133525/34887593-44e6167c-f784-11e7-9ff9-9c765ca1e73b.png)
