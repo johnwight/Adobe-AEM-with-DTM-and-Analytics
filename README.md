@@ -1,7 +1,9 @@
 # Adobe-AEM-with-DTM-and-Analytics
 Configure Your Adobe AEM Site for DTM and Analytics
 
-To configure Adobe Experience Manager (AEM) for Dynamic Tag Management (DTM) and Analytics:
+The following instructions provide guidance on configuring Adobe Experience Manager (AEM) with Dynamic Tag Management (DTM) and Adobe Analytics. Although your AEM site may differ from the example site used below, you can use the steps as a guide for setting up your own configuration. 
+
+To configure AEM for DTM and Analytics:
 
 
 1. From your Adobe [DTM Account Dashboard](https://dtm.adobe.com), click on your company name.
