@@ -165,13 +165,13 @@ To configure AEM + DTM with Analytics:
 
 1. Verify that you (or the assigned user) have administrative privileges for the web services group. To do this:
 
-    1. On the Reports page in Analytics, click **Admin** > **User Management**.
+    1. On the Reports page in Analytics, click **Admin** and then **User Management**.
 
         ![user management](https://user-images.githubusercontent.com/29133525/34893235-907288f4-f799-11e7-9811-d1f9b2732afc.png)
 
     1. On the **Users** tab, click **Edit** in the row for your user name.
     
-    1. Verify the details in the **Access** section.
+    1. Verify the details in the <a name="Access">**Access**</a> section.
     
         ![web service access](https://user-images.githubusercontent.com/29133525/34893602-2ab3b194-f79b-11e7-8cf4-155d5bc3342d.png)
 
@@ -194,3 +194,12 @@ To configure AEM + DTM with Analytics:
     
         ![add a tool button](https://user-images.githubusercontent.com/29133525/34897601-0d61e3ca-f7ac-11e7-9139-600de6f76ccc.png)
 
+    1. On the **Add a Tool** form, specify the following:
+    
+        * For **Tool Type**: Adobe Analytics
+        * A **Tool Name** 
+        * For **Configuration Method**: Automatic
+        * For **Authenticate  via**: Web Services
+        * For **Web Services Username**: The username shown in the [administrative access section](#Access) you verified in a previous step
+        * For **Shared Secret**: The secret shown in the 
+        
