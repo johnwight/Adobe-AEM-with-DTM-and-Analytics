@@ -87,4 +87,8 @@ To configure AEM for DTM and Analytics:
 
 1. Click **OK**.
 
+1. Click the **Sites** button in AEM.
+
+
+
 
