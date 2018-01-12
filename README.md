@@ -139,3 +139,5 @@ To add an alert:
 
 1. Click **Save Rule** at the bottom of the new rule form.
 
+1. Click the **Approvals** tab.
+
