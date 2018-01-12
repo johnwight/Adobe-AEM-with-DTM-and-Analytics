@@ -133,3 +133,4 @@ To add an alert:
 
     ![add new script](https://user-images.githubusercontent.com/29133525/34890751-60a013a2-f790-11e7-8f25-519c62aa62bc.png)
 
+1. On the **New Javascript** form, specify a **Tag Name** and add the Javascript you want to associate with the tag. Click **Save Code**.
