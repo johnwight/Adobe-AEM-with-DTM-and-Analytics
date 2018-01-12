@@ -200,6 +200,6 @@ To configure AEM + DTM with Analytics:
         * A **Tool Name** 
         * For **Configuration Method**: Automatic
         * For **Authenticate  via**: Web Services
-        * For **Web Services Username**: The username shown in the [**Credentials** box of the administrative access section](#Access) you verified in a previous step
-        * For **Shared Secret**: The secret shown in the [**Credentials** box of the administrative access section](#Access) you verified in a previous step
+        * For **Web Services Username**: The username shown in the [**Web Service Credentials** box of the administrative access section](#Access) you verified in a previous step
+        * For **Shared Secret**: The secret shown in the [**Web Service Credentials** box of the administrative access section](#Access) you verified in a previous step
         
