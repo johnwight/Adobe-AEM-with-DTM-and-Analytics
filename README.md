@@ -101,3 +101,5 @@ To configure AEM for DTM and Analytics:
 
     ![add cloud configuration](https://user-images.githubusercontent.com/29133525/34887341-655887ce-f783-11e7-925a-8b4a112ae628.png)
 
+1. Verify that the new configuration reference for **Dynamic Tag Management** appears.
+
