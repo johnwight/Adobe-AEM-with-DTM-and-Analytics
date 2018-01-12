@@ -107,3 +107,10 @@ To configure AEM for DTM and Analytics:
 
 1. Click **Done** in the upper right corner.
 
+1. Open a new tab in your browser and go to the local host for your AEM site.
+
+1. Click **Sources** on the developer tools for your site and verify the DTM file information.
+
+
+
+
