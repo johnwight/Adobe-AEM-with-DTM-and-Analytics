@@ -215,5 +215,5 @@ To configure AEM + DTM with Analytics:
 
 1. On your site, open the developer tools, click the **Network** tab then select the **Preserve log** option and then refresh the page. You should find that Analytics calls are successful by reviewing the response code and the log details.
 
-    ![log details](https://user-images.githubusercontent.com/29133525/34899602-37a78486-f7b7-11e7-844a-1b66e1914900.png)
+    ![log details](https://user-images.githubusercontent.com/29133525/34899705-bb8dd4a8-f7b7-11e7-8d4e-baafa6add06d.png)
 
