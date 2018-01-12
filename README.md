@@ -177,7 +177,7 @@ To configure AEM + DTM with Analytics:
 
 1. Configure a new report to associate with your DTM. To do this:
 
-    1 On the **Admin** tab of the Analytics home screen, click the **Report Suites** option. You must have administrative privileges for the **Admin** tab to appear on your screen.
+    1. On the **Admin** tab of the Analytics home screen, click the **Report Suites** option. You must have administrative privileges for the **Admin** tab to appear on your screen.
 
         ![admin tab for report suites](https://user-images.githubusercontent.com/29133525/32473097-075ec802-c323-11e7-9f4e-371acf9f4914.png)
 
