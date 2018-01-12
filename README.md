@@ -219,3 +219,4 @@ To configure AEM + DTM with Analytics:
 
 1. Perform various tasks and web behaviors on your site to generate Analytics data.
 
+1. Click the **Reports** tab in Analytics and select a metric related to the behaviors you performed on your site.
