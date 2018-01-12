@@ -113,4 +113,9 @@ To configure AEM for DTM and Analytics:
 
     ![verify dtm file](https://user-images.githubusercontent.com/29133525/34888246-bf13165a-f786-11e7-850f-846039addef5.png)
 
+## Add an Alert to your DTM Property
+
+To add an alert:
+
+1. On the AEM Dashboard, click the **Web Properties** tab and specify your DTM configuration from the **Filter** drop-down list.
 
