@@ -209,4 +209,5 @@ To configure AEM + DTM with Analytics:
 
 1. Specify the 
 
+![report suite specification](https://user-images.githubusercontent.com/29133525/34899149-5a41d0d0-f7b4-11e7-85de-a987d9e43b31.png)
 
