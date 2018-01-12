@@ -111,6 +111,6 @@ To configure AEM for DTM and Analytics:
 
 1. Click **Sources** on the developer tools for your site and verify the DTM file information.
 
-
+    ![verify dtm file](https://user-images.githubusercontent.com/29133525/34888206-8859e6d4-f786-11e7-9abd-ebab4f250a84.png)
 
 
