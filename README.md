@@ -142,3 +142,5 @@ To add an alert:
 1. Click the **Approvals** tab.
 
     ![approvals tab](https://user-images.githubusercontent.com/29133525/34891556-324b5c70-f793-11e7-941c-13faa5aef922.png)
+
+1. Click the **Approve** button at the bottom of the **Approvals** page.
