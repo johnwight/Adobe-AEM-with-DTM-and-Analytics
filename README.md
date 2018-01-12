@@ -129,3 +129,4 @@ To add an alert:
 
     ![page load rules](https://user-images.githubusercontent.com/29133525/34890531-884ad366-f78f-11e7-95b4-3c8a8e33e2f8.png)
 
+1. On the **Non-Sequential** tab under **Javascript/Third Party Tags**, click the **Add New Script** button.
