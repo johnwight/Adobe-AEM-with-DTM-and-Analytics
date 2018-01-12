@@ -127,4 +127,5 @@ To add an alert:
 
 1. On the **Page Load Rules** page, specify the Name of your alert, the Conditions for the Trigger area and the Criteria. You can also add criteria for the rule by clicking the **Add Criteria** button and selecting the applicable browser.
 
+    ![page load rules](https://user-images.githubusercontent.com/29133525/34890531-884ad366-f78f-11e7-95b4-3c8a8e33e2f8.png)
 
