@@ -5,11 +5,11 @@ The following instructions provide guidance on configuring Adobe Experience Mana
 
 These instructions include the following sections:
 
-[Configure AEM with DTM](#AEM-with-DTM)
+1. [Configure AEM with DTM](#AEM-with-DTM)
 
-[Add an Alert to DTM](#Add-an-Alert)
+1. [Add an Alert to DTM](#Add-an-Alert)
 
-[Configure AEM + DTM with Analytics](#Configure-Analytics)
+1. [Configure AEM + DTM with Analytics](#Configure-Analytics)
 
 
 ## <a name="AEM-with-DTM">Configure AEM with DTM</a>
