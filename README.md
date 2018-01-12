@@ -164,5 +164,8 @@ To add an alert:
 To configure AEM + DTM with Analytics:
 
 
-1. 
+1. In Analytics, on the Reports page, click **Admin** > **User Management**.
+
+
+
 
