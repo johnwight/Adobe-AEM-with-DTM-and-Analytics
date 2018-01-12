@@ -163,7 +163,7 @@ To add an alert:
 
 To configure AEM + DTM with Analytics:
 
-1. Verify that you are an administrator for the web services group. To do this:
+1. Verify that you (or the assigned user) have administrative privileges for the web services group. To do this:
 
     1. On the Reports page in Analytics, click **Admin** > **User Management**.
 
@@ -175,4 +175,15 @@ To configure AEM + DTM with Analytics:
     
         ![web service access](https://user-images.githubusercontent.com/29133525/34893602-2ab3b194-f79b-11e7-8cf4-155d5bc3342d.png)
 
+1. Configure a new report to associate with your DTM. To do this:
 
+    1 On the **Admin** tab of the Analytics home screen, click the **Report Suites** option. You must have administrative privileges for the **Admin** tab to appear on your screen.
+
+        ![admin tab for report suites](https://user-images.githubusercontent.com/29133525/32473097-075ec802-c323-11e7-9f4e-371acf9f4914.png)
+
+
+    1. On the Reports Suites Manager page, click **Create New** and select **Report Suite**. Configure the new report suite so that it is accessible in Adobe Analytics and contains sufficient conversion variables (evars) for your trigger.
+    
+        ![report suite manager](https://user-images.githubusercontent.com/29133525/32474884-36e55ee8-c32c-11e7-8a50-928b73efb2f8.png)
+
+    For more information on configuring new reports, see the [Adobe Reports Suite Manager help](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html).
