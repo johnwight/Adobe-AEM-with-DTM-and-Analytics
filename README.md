@@ -72,6 +72,9 @@ To configure AEM for DTM and Analytics:
 
 1. Near the bottom of the **Dynamic Tag Settings** box, deselect the **Include Production Code on Author** option.
 
+    ![include option](https://user-images.githubusercontent.com/29133525/34886003-f5b9d4d0-f77e-11e7-811c-4fc21711c2ae.png)
+
+
 1. Click the **Staging Settings** tab and deselect the **Use Self Hosting** option.
 
 1. Click the **Production Settings** tab and deselect the **Use Self Hosting** option.
