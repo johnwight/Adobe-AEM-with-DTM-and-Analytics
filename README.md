@@ -173,5 +173,6 @@ To configure AEM + DTM with Analytics:
     
     1. Verify the details in the **Access** section.
     
-    
+        ![web service access](https://user-images.githubusercontent.com/29133525/34893602-2ab3b194-f79b-11e7-8cf4-155d5bc3342d.png)
+
 
