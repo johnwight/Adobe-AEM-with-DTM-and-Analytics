@@ -77,7 +77,13 @@ To configure AEM for DTM and Analytics:
 
 1. Click the **Staging Settings** tab and deselect the **Use Self Hosting** option.
 
+    ![use self hosting](https://user-images.githubusercontent.com/29133525/34886150-66f5f674-f77f-11e7-8a1a-d731944d45f2.png)
+
+
 1. Click the **Production Settings** tab and deselect the **Use Self Hosting** option.
+
+    ![use self hosting](https://user-images.githubusercontent.com/29133525/34886150-66f5f674-f77f-11e7-8a1a-d731944d45f2.png)
+
 
 1. Click **OK**.
 
