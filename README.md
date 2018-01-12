@@ -59,7 +59,7 @@ To configure AEM for DTM and Analytics:
             
         1. After pasting the token into the **Dynamic Tag Management Settings** box, click the **Connect to DTM** button to test it.
 
-            ![connect button](https://user-images.githubusercontent.com/29133525/34696226-28abcba6-f48b-11e7-9483-94ea738079fc.png)
+            ![dynamic tag management settings box](https://user-images.githubusercontent.com/29133525/34885915-b2557f5a-f77e-11e7-8b9a-85b2488e772a.png)
 
              You should receive a message indicating that the connection is successful.
               
