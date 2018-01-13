@@ -79,7 +79,7 @@ To configure AEM with DTM:
 
     1. To specify the **Company**, select it from the drop-down in the field.
  
-    1. To specify the **Property**, select it fromt the drop-down in the field. If you have many properties, you may need to scroll to find it.
+    1. To specify the **Property**, select it from the drop-down in the field. If you have many properties, you may need to scroll to find it.
 
 1. Near the bottom of the **Dynamic Tag Settings** box, deselect the **Include Production Code on Author** option.
 
