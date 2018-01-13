@@ -182,7 +182,7 @@ To configure AEM + DTM with Analytics:
         ![admin tab for report suites](https://user-images.githubusercontent.com/29133525/32473097-075ec802-c323-11e7-9f4e-371acf9f4914.png)
 
 
-    1. On the **Reports Suites Manager** page, click **Create New** and select **Report Suite**. Configure the new report suite so that it is accessible in Adobe Analytics and contains sufficient conversion variables (evars) for your trigger.
+    1. On the **Reports Suites Manager** page, click **Create New** and select **Report Suite**. Configure the new report suite so that it is accessible in Adobe Analytics and contains sufficient conversion variables (evars).
     
         ![report suite manager](https://user-images.githubusercontent.com/29133525/32474884-36e55ee8-c32c-11e7-8a50-928b73efb2f8.png)
 
