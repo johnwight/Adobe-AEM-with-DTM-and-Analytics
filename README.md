@@ -223,3 +223,4 @@ To configure AEM + DTM with Analytics:
 
     ![report metrics](https://user-images.githubusercontent.com/29133525/34899918-05b87226-f7b9-11e7-90db-2bef88f4cc24.png)
 
+1. Make sure your report name is specified and then view the analytics data that is captured in the report. You should see it correspond with the web behavior you performed on your site.
