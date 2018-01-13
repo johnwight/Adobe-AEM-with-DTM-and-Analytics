@@ -27,7 +27,7 @@ To configure AEM with DTM:
     ![add property](https://user-images.githubusercontent.com/29133525/34694527-9e07689e-f484-11e7-922f-a26c0124037d.png)
 
 
-1. On the **Create Property** form, specify a **Name** and a **URL** and click **Create Propery**.
+1. On the **Create Property** form, specify a **Name** and a **URL** and click **Create Property**.
 
     ![create property](https://user-images.githubusercontent.com/29133525/34694566-c7bd3128-f484-11e7-8576-bef30d6b19e0.png)
     
