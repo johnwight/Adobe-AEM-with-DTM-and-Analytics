@@ -163,9 +163,9 @@ To add an alert:
 
 To configure AEM + DTM with Analytics:
 
-1. Verify that you (or the assigned user) have administrative privileges for the web services group. To do this:
+1. Verify that you (or the assigned user) have administrative privileges and web services credentials for the web services group. To do this:
 
-    1. On the Reports page in Analytics, click **Admin** and then **User Management**.
+    1. On the Reports page in Analytics, click **Admin** and then **User Management**. If you do not see the **Admin** tab, then you do not currently have administrative privileges.
 
         ![user management](https://user-images.githubusercontent.com/29133525/34893235-907288f4-f799-11e7-9811-d1f9b2732afc.png)
 
@@ -177,7 +177,7 @@ To configure AEM + DTM with Analytics:
 
 1. Configure a new report to associate with your DTM. To do this:
 
-    1. On the **Admin** tab of the Analytics home screen, click the **Report Suites** option. You must have administrative privileges for the **Admin** tab to appear on your screen.
+    1. On the **Admin** tab of the Analytics home screen, click the **Report Suites** option. 
 
         ![admin tab for report suites](https://user-images.githubusercontent.com/29133525/32473097-075ec802-c323-11e7-9f4e-371acf9f4914.png)
 
