@@ -186,7 +186,7 @@ To configure AEM + DTM with Analytics:
     
         ![report suite manager](https://user-images.githubusercontent.com/29133525/32474884-36e55ee8-c32c-11e7-8a50-928b73efb2f8.png)
 
-    For more information on configuring new reports, see the [Adobe Reports Suite Manager help](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html).
+    For more information on configuring new Report Suites, see the [Adobe Reports Suite Manager help](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html).
 
 1. In AEM, create a new tool for Adobe Analytics. To do this:
 
