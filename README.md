@@ -227,3 +227,6 @@ To configure AEM + DTM with Analytics:
 
     ![pages report](https://user-images.githubusercontent.com/29133525/34900385-bc79192c-f7bc-11e7-8779-39e8a8b2ebf0.png)
 
+## Author
+
+- John Wight [@johnwight](https://github.com/johnwight).
